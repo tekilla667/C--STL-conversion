@@ -9,4 +9,4 @@ Program also enables the user to get the volume of the model. It will be display
 
 NOTE:
 I tested the program on STL files up to 5 MB, larger files should work fine, just will take more time for computation.
-If you encounter any problems please create an issu, I will do my best to help.
+If you encounter any problems please create an issue, I will do my best to help.
