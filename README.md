@@ -1,4 +1,4 @@
-# C--STL-conversion
+# C#-STL-conversion
 C# program enabling .STL files binary to ASCII conversion + calculating Volume of the Model
 
 HOW DOES IT WORK?
